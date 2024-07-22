@@ -33,8 +33,8 @@ Switching from local host to a hosting site caused some issues. The upload image
 Responsibilities
 ---
 - Message board functionality: Era and Andrew
-- Personal calendar: Ellys
-- Register events and view event calendar: Nora
+- Personal calendar: Ellys 
+- Register events and view event calendar: Era and Nora
 - Login page: Era
 - Styling for whole application(css/html): Andrew 
 
